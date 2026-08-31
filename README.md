@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Erick 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=460&lines=Desenvolvedor+Full+Stack;Next.js+%7C+React+%7C+TypeScript;Supabase+%7C+Node.js;Construindo+sistemas+e+produtos+digitais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Next.js+%7C+React+%7C+TypeScript;Supabase+%7C+Node.js;Construindo+sistemas+e+produtos+digitais" alt="Typing SVG" />
 
 </div>
 
